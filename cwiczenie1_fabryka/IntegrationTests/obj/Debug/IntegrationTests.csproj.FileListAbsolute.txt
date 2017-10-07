@@ -1,0 +1,8 @@
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\obj\Debug\IntegrationTests.csprojResolveAssemblyReference.cache
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\bin\Debug\IntegrationTests.dll
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\bin\Debug\IntegrationTests.pdb
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\bin\Debug\cwiczenie1_fabryka.exe
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\bin\Debug\cwiczenie1_fabryka.pdb
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\obj\Debug\IntegrationTests.dll
+E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\IntegrationTests\obj\Debug\IntegrationTests.pdb
