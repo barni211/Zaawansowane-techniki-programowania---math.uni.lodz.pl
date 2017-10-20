@@ -17,10 +17,24 @@ public:
 		this->counter = new int(1);
 	}
 
+	MyOwnSharedPointer(const MyOwnSharedPointer &a)
+	{
+		*a.counter++;
+		value = a.value;
+	}
+
 	MyOwnSharedPointer(MyOwnSharedPointer &&a)
 	{
-		*counter++;
-		value = a.value;
+		//*counter++;
+		this->value = a.value;
+		this->counter = a.counter;
+		*a.counter = *a.counter - 1;
+		if (*a.counter == 0)
+		{
+			delete a.counter;
+			delete a.value;
+		}
+		a.value = nullptr;
 	}
 
 	MyOwnSharedPointer & operator=(const MyOwnSharedPointer &a)
@@ -47,7 +61,7 @@ public:
 			delete a.value;
 		}
 		a.value = nullptr;
-		return *this;
+		return *this;	
 	}
 
 
@@ -60,8 +74,6 @@ public:
 	{
 		std::cout << *this->counter;
 	}
-
-	
 
 
 	~MyOwnSharedPointer()
