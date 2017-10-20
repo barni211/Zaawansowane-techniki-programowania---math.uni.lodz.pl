@@ -6,3 +6,6 @@ E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\cwiczenie1_fabry
 E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\cwiczenie1_fabryka\obj\Debug\cwiczenie1_fabryka.pdb
 E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\cwiczenie1_fabryka\bin\Debug\nunit.framework.dll
 E:\.NET workspace\.NET-workspace\Cwiczenie 1\cwiczenie1_fabryka\cwiczenie1_fabryka\bin\Debug\nunit.framework.xml
+E:\.NET workspace\Zaawansowane techniki programowania\cwiczenie1_fabryka\cwiczenie1_fabryka\bin\Debug\cwiczenie1_fabryka.exe.config
+E:\.NET workspace\Zaawansowane techniki programowania\cwiczenie1_fabryka\cwiczenie1_fabryka\obj\Debug\cwiczenie1_fabryka.exe
+E:\.NET workspace\Zaawansowane techniki programowania\cwiczenie1_fabryka\cwiczenie1_fabryka\obj\Debug\cwiczenie1_fabryka.pdb

@@ -1,0 +1,10 @@
+﻿  MyOwnSharedPointer.cpp
+e:\c++ workspace\zaawansowane-techniki-programowania-lab3\zaawansowane-techniki-programowania-lab3\myownsharedpointer.h(76): warning C4091: 'static ': ignored on left of 'MyOwnSharedPointer' when no variable is declared
+  Generating Code...
+  Compiling...
+  Zaawansowane-techniki-programowania-lab3.cpp
+e:\c++ workspace\zaawansowane-techniki-programowania-lab3\zaawansowane-techniki-programowania-lab3\zaawansowane-techniki-programowania-lab3.cpp(3): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+  e:\c++ workspace\zaawansowane-techniki-programowania-lab3\zaawansowane-techniki-programowania-lab3\zaawansowane-techniki-programowania-lab3.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+e:\c++ workspace\zaawansowane-techniki-programowania-lab3\zaawansowane-techniki-programowania-lab3\myownsharedpointer.h(76): warning C4091: 'static ': ignored on left of 'MyOwnSharedPointer' when no variable is declared
+  Generating Code...
+  Zaawansowane-techniki-programowania-lab3.vcxproj -> E:\C++ workspace\Zaawansowane-techniki-programowania-lab3\Debug\Zaawansowane-techniki-programowania-lab3.exe
