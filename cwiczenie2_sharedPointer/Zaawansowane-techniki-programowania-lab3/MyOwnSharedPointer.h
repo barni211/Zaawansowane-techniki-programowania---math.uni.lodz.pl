@@ -28,12 +28,8 @@ public:
 		//*counter++;
 		this->value = a.value;
 		this->counter = a.counter;
-		*a.counter = *a.counter - 1;
-		if (*a.counter == 0)
-		{
-			delete a.counter;
-			delete a.value;
-		}
+		//*a.counter = *a.counter - 1;
+		a.counter = nullptr;
 		a.value = nullptr;
 	}
 
@@ -54,12 +50,13 @@ public:
 	{
 		*counter = *counter + 1;
 		*this->value = *a.value;
-		*a.counter = *a.counter - 1;
+		/**a.counter = *a.counter - 1;
 		if (*a.counter == 0)
 		{
 			delete a.counter;
 			delete a.value;
-		}
+		}*/
+		a.counter = nullptr;
 		a.value = nullptr;
 		return *this;	
 	}
